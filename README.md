@@ -4,7 +4,7 @@
 
 ## Description
 
-[こちらの環境](https://github.com/genmai99/dockerfiles/tree/master/pytorch)
+[こちらの環境](https://github.com/MatsukawaGenta/dockerfiles/tree/master/pytorch)
 で動かすことを前提としています。
 
 ## Demo
@@ -45,4 +45,4 @@ N/A
 
 ## Author
 
-[genmai99](https://github.com/genmai99)
+[Genta Matsukawa](https://github.com/MatsukawaGenta)
