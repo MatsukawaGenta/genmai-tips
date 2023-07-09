@@ -4,8 +4,7 @@
 
 ## Description
 
-[こちらの環境](https://github.com/MatsukawaGenta/dockerfiles/tree/master/pytorch)
-で動かすことを前提としています。
+Python3+OpenCV環境を想定しています。
 
 ## Demo
 
