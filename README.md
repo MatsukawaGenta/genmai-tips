@@ -1,42 +1,12 @@
 # genmai-tips
 
-このレポジトリではお試しで書いたちょっとしたコードを公開しています。
+This repository stores the code I made in the trial.
 
 ## Description
 
-Python3+OpenCV環境を想定しています。
-
-## Demo
-
-N/A
-
-## Features
-
+Contents
+* coral
 * opencv
-
-## Hardware requirement
-
-* RTX2080super
-
-## Operating system requirements
-
-* Ubuntu20.04
-  
-## Requirements for optional features
-
-* Docker
-
-## Usage
-
-N/A
-
-## Install
-
-N/A
-
-## Contribution
-
-N/A
 
 ## Licence
 
