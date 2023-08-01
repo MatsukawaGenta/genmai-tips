@@ -1,7 +1,6 @@
-Object_Detection
+Coral
 ====
-This is a scriput that overlays bbox in realtime for object detection.
-And you can not only use camera input, but movie file input.
+This repository contains tips of coral.
 
 ## Description
 N/A
@@ -16,17 +15,26 @@ N/A
 N/A
 
 ## Requirement
+
 ### Hardware requirement
+
 * Mac, M1, 2020
+
 ### Operating system requirements
+
 * Mac OS X 10.4.1 Ventura
+
 ### Requirements for optional features
+
 I use venv.
+
 ```
 $ python3 -m venv coral
 $ source coral/bin/activate
 ```
+
 ## Usage
+
   Object detection
 * python detect_opencv.py --model models/ssd_mobilenet_v2_coco_quant_postprocess.tflite --labels models/labels.txt --threshold 0.6
 
