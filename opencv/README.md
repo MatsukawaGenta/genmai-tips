@@ -16,6 +16,13 @@ Sample for resizing a video.
 
 ## Install
 
+```
+$ pip3 install --upgrade pip
+$ pip3 install imageio numpy pandas matplotlib japanize_matplotlib scikit-image lxml pillow Cython contextlib2 jupyter notebook scikit-learn seaborn tqdm
+$ pip3 install opencv-python opencv-contrib-python
+$ pip3 install tensorflow
+$ python3 -m pip install --extra-index-url https://google-coral.github.io/py-repo/ pycoral~=2.0
+```
 
 ## Licence
 
