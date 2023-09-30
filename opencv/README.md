@@ -9,6 +9,8 @@ Basic sample for image processing of a still image.
 Basic sample for image processing of a video.
 * 03_movie_resize.py  
 Sample for resizing a video.
+* 04_picamera2_opencv.py
+Basic sample for picamera2 and opencv.
 
 ## Usage
 * Video resources are in data directory.
