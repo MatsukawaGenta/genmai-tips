@@ -31,4 +31,5 @@ $ sudo apt install libatlas3-base
 
 
 ## Author
-[genmai99](https://github.com/genmai99)
+
+[Genta Matsukawa](https://github.com/MatsukawaGenta)
