@@ -52,8 +52,7 @@ $ python3 -m pip install --extra-index-url https://google-coral.github.io/py-rep
 N/A
 
 ## Licence
-
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+MIT
 
 ## Author
 
